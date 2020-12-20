@@ -1,0 +1,32 @@
+{
+  "name": "oauth-login",
+  "version": "1.0.0",
+  "description": "Practicing basic Oauth for login.",
+  "main": "app.js",
+  "scripts": {
+    "test": "Start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishihere19/Oauth-login.git"
+  },
+  "keywords": [
+    "oauth",
+    "login",
+    "register",
+    "nodejs.",
+    "express",
+    "mongodb"
+  ],
+  "author": "Nishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishihere19/Oauth-login/issues"
+  },
+  "homepage": "https://github.com/nishihere19/Oauth-login#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3"
+  }
+}
